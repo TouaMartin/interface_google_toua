@@ -1,0 +1,40 @@
+p{ float:right; }
+h1{ color: blue; style="width:80% ; max-width:320px";}
+.texte-G {color: blue;} 
+.texte-o {color:red;} 
+.texte-oo {color:yellow;}
+.texte-l {color:green;} 
+.texte-e {color : red;} 
+.connexion-styled{ background-color: blue; color: white;}
+
+menu{text-align: center;
+    size: 500px;
+    height: 100px;
+}
+
+input{
+    width: 400px;
+    height: 20px;
+    margin-left: 35%;
+    margin-top: -80px; 
+    padding: 6px;
+    border: 1px solid grey;
+    border-radius: 20PX;
+  }
+
+  h6{
+    margin-left: 40%;
+  }
+
+
+  h1{
+    display: flex;
+    align-items:center;
+    font-size: 120px;
+    margin-top: 15vh;
+    margin-left: 35%; 
+    font-family: sans-serif;
+    margin-bottom: 10px;
+  }
+
+
